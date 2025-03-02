@@ -1,0 +1,1 @@
+- [1801 Winding Star (Faulhaber) Coils And Making Litz Wire](https://youtu.be/5ttV0zt5XOE)
