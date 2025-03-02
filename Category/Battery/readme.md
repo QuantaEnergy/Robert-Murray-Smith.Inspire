@@ -7,3 +7,5 @@ index:
 - [1227 How To Make An Emergency Battery From Things Around The Home](https://youtu.be/bVn9PJk9VF0)
 - [1228 All About Crystal Batteries And How To Make Them Without All The Tedious Messing About](https://youtu.be/SoFfldA7w3g)
 - [1424 How To Make A Giant Battery- Fabricated In 5 Minutes - A Critical Review](https://youtu.be/tVUFQfQ8l7o)
+- [1607 A DIY Sand Battery](https://youtu.be/kzj1PCA_jxA)
+- [1604 The Sand Battery - A DIY Option Or Not?](https://youtu.be/9BW5GX05Fko)
