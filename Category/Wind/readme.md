@@ -2,6 +2,7 @@
 index:
 - [033 The Magic Mechanism For Wind Power](https://youtu.be/q7JzuM0akZc)
 - [Man In A Shed - Wind Power Special - Episode 7](https://youtu.be/UmMEIJRTRrA)
+- ['O-Wind' Wind Generator Simple Replication With A Cuboctahedron - O Wind Part 1](https://youtu.be/5KeuejuTTI0)
 
 # Low-speed Harvester
 - [Building A 1kW Wind Turbine For Under £100 - Some More Changes](https://youtu.be/0GZGCJXpcWY)
@@ -15,6 +16,13 @@ sch:
 ## favorite:
 - [009 The Folding Wind Turbine](https://youtu.be/_hBxYnSJSoo)
 - [1354 Ron's Folding Wind Turbine](https://youtu.be/j3Gh9mQofv0)
+- [1965 The Folding Wind Turbine](https://youtu.be/ajgFdN73h1U)
+- [1927 A Folding Portable Wind Turbine With Ginger Jack And Jacob](https://youtu.be/1q7x_1t67vc)
 
+# type: Flat
 index:
-- 
+- [A Flat Wind Generator](https://youtu.be/2XgWQ_sTzRc?list=PLbQqm4rNo626xAWxk9BN7D0d5yiTWJbnv)
+
+# type: 'C' Rotor
+index:
+- [1978 Unusual Wind Turbine - The 'C' Rotor](https://youtu.be/ZzHM_Mxk_84)
