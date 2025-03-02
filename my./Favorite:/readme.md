@@ -1,0 +1,1 @@
+- [All Against Patents Why Patents Are A Bad Idea](https://youtu.be/HZEsN70GQkg)
