@@ -2,6 +2,7 @@ playlist:
 - [Motors and Generators](https://www.youtube.com/playlist?list=PLbQqm4rNo626ehOfFjKq7QWnazjOSAuUq)
 
 index:
+- [1867 The Perfect Generator For The Home Builder](https://youtu.be/jxPa5nmUOlE)
 - [021 The Mighty Mite Generator And How To Build It](https://youtu.be/AStXQ_tgzMg)
 - [1931 A More Powerful And More Efficient Generator And How To Build It](https://youtu.be/BX7UgVSUOBE)
 - [An Idea Or Two for What to Do with an old Generator - An Amazing Roadside Find](https://youtu.be/Ybf16MDc3l4?list=PLbQqm4rNo626ehOfFjKq7QWnazjOSAuUq)
