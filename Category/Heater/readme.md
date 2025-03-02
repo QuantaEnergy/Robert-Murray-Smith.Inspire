@@ -1,1 +1,3 @@
 - [1702 Homemade Heater - You Will Not Believe How Warm This Gets](https://youtu.be/JGVZVCU8FGE)
+- [1773 Staying Warm Without Burning Your House Down - A Safer Burner](https://youtu.be/_212f25jcKQ)
+- [1777 The Perfect Plant Pot Heater](https://youtu.be/HIZ_ByGv7CQ)
