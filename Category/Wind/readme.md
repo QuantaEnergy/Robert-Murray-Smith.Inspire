@@ -5,6 +5,7 @@ index:
 - ['O-Wind' Wind Generator Simple Replication With A Cuboctahedron - O Wind Part 1](https://youtu.be/5KeuejuTTI0)
 - [1867 The Perfect Generator For The Home Builder](https://youtu.be/jxPa5nmUOlE)
 - [1868 A Simple Wind Turbine That Will Blow Your Mind](https://youtu.be/uysrB7YtEiI)
+- [1889 Ground Breaking Wind Turbine Update](https://youtu.be/wWZLxYIKlpQ)
 
 # Low-speed Harvester
 - [Building A 1kW Wind Turbine For Under £100 - Some More Changes](https://youtu.be/0GZGCJXpcWY)
