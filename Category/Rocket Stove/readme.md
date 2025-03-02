@@ -13,3 +13,4 @@ index:
 - [1763 A Glass Rocket Stove](https://youtu.be/wKifjca0KOg)
 - [1743 A Rocket Stove Kit - No Welding, No Tools, No Experience = No Problem](https://youtu.be/c5Q_5XKDXK4)
 - [1726 Easy Build Rocket Stove From A Toilet Brush Holder](https://youtu.be/mPaahNfIidc)
+- [1677 Biodiesel Rocket Stove](https://youtu.be/X-RI4D1x3dw)
