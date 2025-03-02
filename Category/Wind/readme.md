@@ -22,7 +22,16 @@ sch:
 # type: Flat
 index:
 - [A Flat Wind Generator](https://youtu.be/2XgWQ_sTzRc?list=PLbQqm4rNo626xAWxk9BN7D0d5yiTWJbnv)
+- [024 A Flat Wind Turbine](https://youtu.be/7vol_0qsTCQ)
+
+# type: Vertical-axis
+- [046 VAWTs Inspired By Nature](https://youtu.be/OpiuQxuZXNc)
+
+relation: https://en.wikipedia.org/wiki/Vertical-axis_wind_turbine
 
 # type: 'C' Rotor
 index:
 - [1978 Unusual Wind Turbine - The 'C' Rotor](https://youtu.be/ZzHM_Mxk_84)
+
+# type: Fibonacci Spiral, Archimedes
+- [Man In A Shed Episode 10 - The Vortex Wind Turbine Omnibus](https://youtu.be/5sQY6vM6_gk)
