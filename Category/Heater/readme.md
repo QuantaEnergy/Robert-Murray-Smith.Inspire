@@ -8,6 +8,7 @@
 - [1746 DIY Room Heater From An Old Sock](https://youtu.be/wM08HEWSa-Q)
 - [1750 DIY Ethanol Stove - Easy, Simple, Cheap](https://youtu.be/WEouoBd_Muc)
 - [1708 An Amazing And Simple Find For Heaters](https://youtu.be/xJmDGD6sZbE)
+- [1700 An Awesome DIY Multi Fuel Heater](https://youtu.be/pl0GOc2gLl0)
 
 # Wick
 - [1680 The Magical Forever Wick - The Plant Pot Heater On Steroids](https://youtu.be/HX2taNrdQh8)
