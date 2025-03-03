@@ -10,6 +10,7 @@
 - [1708 An Amazing And Simple Find For Heaters](https://youtu.be/xJmDGD6sZbE)
 - [1700 An Awesome DIY Multi Fuel Heater](https://youtu.be/pl0GOc2gLl0)
 - [1678 DIY Easy To Make Heater - No Welding](https://youtu.be/u0aloCOwALQ)
+- [1705 Trying Different Fuels On The DIY Heater 2](https://youtu.be/bXy3bfuyHPs)
 
 # Wick
 - [1680 The Magical Forever Wick - The Plant Pot Heater On Steroids](https://youtu.be/HX2taNrdQh8)
@@ -23,3 +24,7 @@
 # Oil
 - [1678 DIY Easy To Make Heater - No Welding](https://youtu.be/u0aloCOwALQ)
 - [1679 Oil Heaters - Keeping It Simple](https://youtu.be/JPm_YHnZbGw)
+
+# from:
+## Plant Pot
+- [1695 Improving The Plant Pot Heater](https://youtu.be/SCO0mB_ELg0)
