@@ -8,6 +8,7 @@ index:
 - [1889 Ground Breaking Wind Turbine Update](https://youtu.be/wWZLxYIKlpQ)
 - [1878 An Exciting Idea For A Wind Turbine](https://youtu.be/H_tnQ0URqZE)
 - [1873 The Contra Rotating Wind Turbine](https://youtu.be/sVBzpli1rFs)
+- [002 Dual Rotor Wind Turbine Complete Build](https://youtu.be/Q50qpVm2NJU)
 
 # Low-speed Harvester
 - [Building A 1kW Wind Turbine For Under £100 - Some More Changes](https://youtu.be/0GZGCJXpcWY)
