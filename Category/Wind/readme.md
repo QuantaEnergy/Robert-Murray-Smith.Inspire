@@ -33,6 +33,7 @@ index:
 
 # type: Vertical-axis
 - [046 VAWTs Inspired By Nature](https://youtu.be/OpiuQxuZXNc)
+- [1718 A New Style Of Wind Turbine - Cheaper, Simpler, Better](https://youtu.be/K-c66KpjAWw)
 
 relation: https://en.wikipedia.org/wiki/Vertical-axis_wind_turbine
 
@@ -45,4 +46,7 @@ index:
 
 # Darwin Turbine
 - [1893 The Darwin Feather Turbine - Looking Like A Winner](https://youtu.be/t4TdGgzZqmI)
-- 
+
+# Ugrinsky
+- [1755 How To Make A Super Efficient Wind Turbine - The Ugrinsky VAWT Made Easy](https://youtu.be/gsUEzDx5p5w)
+
