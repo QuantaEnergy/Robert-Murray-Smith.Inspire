@@ -14,3 +14,7 @@ index:
 - [1743 A Rocket Stove Kit - No Welding, No Tools, No Experience = No Problem](https://youtu.be/c5Q_5XKDXK4)
 - [1726 Easy Build Rocket Stove From A Toilet Brush Holder](https://youtu.be/mPaahNfIidc)
 - [1677 Biodiesel Rocket Stove](https://youtu.be/X-RI4D1x3dw)
+
+# F Shape
+- [1692 A DIY Multi Fuel Home Generator 1 - The Project](https://youtu.be/Q2CZ1YMZ5_0)
+- [1693 A DIY Multi Fuel Home Generator 2 - Changing One Type Of Engine Into Another Type Of Engine](https://youtu.be/Q2CZ1YMZ5_0)
