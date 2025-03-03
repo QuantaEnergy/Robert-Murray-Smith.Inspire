@@ -6,6 +6,8 @@ index:
 - [1867 The Perfect Generator For The Home Builder](https://youtu.be/jxPa5nmUOlE)
 - [1868 A Simple Wind Turbine That Will Blow Your Mind](https://youtu.be/uysrB7YtEiI)
 - [1889 Ground Breaking Wind Turbine Update](https://youtu.be/wWZLxYIKlpQ)
+- [1878 An Exciting Idea For A Wind Turbine](https://youtu.be/H_tnQ0URqZE)
+- [1873 The Contra Rotating Wind Turbine](https://youtu.be/sVBzpli1rFs)
 
 # Low-speed Harvester
 - [Building A 1kW Wind Turbine For Under £100 - Some More Changes](https://youtu.be/0GZGCJXpcWY)
@@ -38,3 +40,7 @@ index:
 
 # type: Fibonacci Spiral, Archimedes
 - [Man In A Shed Episode 10 - The Vortex Wind Turbine Omnibus](https://youtu.be/5sQY6vM6_gk)
+
+# Darwin Turbine
+- [1893 The Darwin Feather Turbine - Looking Like A Winner](https://youtu.be/t4TdGgzZqmI)
+- 
