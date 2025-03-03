@@ -22,3 +22,4 @@
 
 # Oil
 - [1678 DIY Easy To Make Heater - No Welding](https://youtu.be/u0aloCOwALQ)
+- [1679 Oil Heaters - Keeping It Simple](https://youtu.be/JPm_YHnZbGw)
