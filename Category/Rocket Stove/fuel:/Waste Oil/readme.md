@@ -1,0 +1,1 @@
+- [1687 Waste Oil Rocket Stove](https://youtu.be/-GgHl9trgwk)
