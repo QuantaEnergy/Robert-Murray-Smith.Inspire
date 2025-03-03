@@ -66,6 +66,7 @@ index:
 
 # Omniball
 - [2049 Improving The Omnidirectional Wind Turbine](https://youtu.be/CvxTogOS7zs)
+- [2043 An Omnidirectional Wind Turbine](https://youtu.be/RzdSY-ulD2s)
 
 # Dual Rotor
 - [2035 DIY Super Efficient Dual Rotor Wind Turbine - A Real Betz Beater](https://youtu.be/-aHt6Ak7mik)
