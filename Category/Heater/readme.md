@@ -18,3 +18,6 @@
 - [1783 How To Make A Reed Multi Use Veg Oil Stove](https://youtu.be/7UW4DKPtkF4)
 - [1778 An Olive Oil Burner](https://youtu.be/4-3Wpzkq8-8)
 - [](url)
+
+# Oil
+- [1678 DIY Easy To Make Heater - No Welding](https://youtu.be/u0aloCOwALQ)
