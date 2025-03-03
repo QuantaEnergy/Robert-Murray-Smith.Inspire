@@ -46,7 +46,14 @@ index:
 
 # Darwin Turbine
 - [1893 The Darwin Feather Turbine - Looking Like A Winner](https://youtu.be/t4TdGgzZqmI)
+- [921 A Super Efficient Wind Turbine - A Betz Beater?]([url](https://youtu.be/NeOrUIFhVR8))
 
 # Ugrinsky
 - [1755 How To Make A Super Efficient Wind Turbine - The Ugrinsky VAWT Made Easy](https://youtu.be/gsUEzDx5p5w)
 
+# Aeromine
+- [1725 Aeromine And A DIY Wind Turbine From A Lost Technology](https://youtu.be/LteWS7OdaRs)
+
+# Horizontal Axis
+- [A Lucky Find And A HAWT Rotor For A Wind Turbine](https://youtu.be/LeUrewP3gos)
+- 
