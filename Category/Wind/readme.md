@@ -12,6 +12,7 @@ index:
 - [1883 The Swiss Army Knife Of Wind Power](https://youtu.be/ghYIBS9dJH4)
 - [1016 Washing Machine To Wind Turbine](https://youtu.be/L-9uAAhryLQ)
 - [2031 The Great Wind Turbine Improvement Mystery](https://youtu.be/3Gj2viohsi8)
+- [Wind Turbine Rotor From An Old Tumble Dryer](https://youtu.be/4OltRIXvONY)
 
 # Portable
 - [2012 Awesome Portable Wind Turbine](https://youtu.be/PlLbLzjp2g4)
