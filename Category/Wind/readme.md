@@ -53,6 +53,7 @@ index:
 # Darwin Turbine
 - [1893 The Darwin Feather Turbine - Looking Like A Winner](https://youtu.be/t4TdGgzZqmI)
 - [921 A Super Efficient Wind Turbine - A Betz Beater?]([url](https://youtu.be/NeOrUIFhVR8))
+- [1882 A Groundbreaking Wind Turbine](https://youtu.be/RqxGyCbMXGo)
 
 # Ugrinsky
 - [1755 How To Make A Super Efficient Wind Turbine - The Ugrinsky VAWT Made Easy](https://youtu.be/gsUEzDx5p5w)
