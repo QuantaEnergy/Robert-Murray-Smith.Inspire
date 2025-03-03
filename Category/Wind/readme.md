@@ -11,6 +11,7 @@ index:
 - [002 Dual Rotor Wind Turbine Complete Build](https://youtu.be/Q50qpVm2NJU)
 - [1883 The Swiss Army Knife Of Wind Power](https://youtu.be/ghYIBS9dJH4)
 - [1016 Washing Machine To Wind Turbine](https://youtu.be/L-9uAAhryLQ)
+- [2031 The Great Wind Turbine Improvement Mystery](https://youtu.be/3Gj2viohsi8)
 
 # Low-speed Harvester
 - [Building A 1kW Wind Turbine For Under £100 - Some More Changes](https://youtu.be/0GZGCJXpcWY)
