@@ -10,6 +10,7 @@ index:
 - [1873 The Contra Rotating Wind Turbine](https://youtu.be/sVBzpli1rFs)
 - [002 Dual Rotor Wind Turbine Complete Build](https://youtu.be/Q50qpVm2NJU)
 - [1883 The Swiss Army Knife Of Wind Power](https://youtu.be/ghYIBS9dJH4)
+- [1016 Washing Machine To Wind Turbine](https://youtu.be/L-9uAAhryLQ)
 
 # Low-speed Harvester
 - [Building A 1kW Wind Turbine For Under £100 - Some More Changes](https://youtu.be/0GZGCJXpcWY)
@@ -56,4 +57,10 @@ index:
 
 # Horizontal Axis
 - [A Lucky Find And A HAWT Rotor For A Wind Turbine](https://youtu.be/LeUrewP3gos)
-- 
+
+# Omniball
+- [2049 Improving The Omnidirectional Wind Turbine](https://youtu.be/CvxTogOS7zs)
+
+# Dual Rotor
+- [2035 DIY Super Efficient Dual Rotor Wind Turbine - A Real Betz Beater](https://youtu.be/-aHt6Ak7mik)
+- [002 Dual Rotor Wind Turbine Complete Build](https://youtu.be/Q50qpVm2NJU)
