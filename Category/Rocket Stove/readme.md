@@ -26,6 +26,9 @@ index:
 - [1693 A DIY Multi Fuel Home Generator 2 - Changing One Type Of Engine Into Another Type Of Engine](https://youtu.be/Q2CZ1YMZ5_0)
 - [1716 A DIY Multi Fuel Home Generator 3 - Converting A Compressor To A Steam Engine](https://youtu.be/HVsDtuTkj6E)
 
+## Stirling Engine
+- [1620 Rocket Stove Stirling](https://youtu.be/nssEmLfyxUo)
+
 # K Type
 - [1412 Rocket Stove Free Plans](https://youtu.be/765CZdxrqXI)
 - [1403 How To Make A Rocket Stove For UK£20 And A Couple Of Hours Work](https://youtu.be/r2qmmPSa5Ig)
