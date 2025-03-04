@@ -1,1 +1,2 @@
 - [1416 How To Make A Very Different DIY Thermoelectric Generator For A Rocket Stove](https://youtu.be/6-egm7KIj4Y)
+- [1618 Putting A Thermo Electric Generator On Solar Panels](https://youtu.be/LWPljHcMjNc)
