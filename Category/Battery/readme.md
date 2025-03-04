@@ -10,3 +10,4 @@ index:
 - [1607 A DIY Sand Battery](https://youtu.be/kzj1PCA_jxA)
 - [1604 The Sand Battery - A DIY Option Or Not?](https://youtu.be/9BW5GX05Fko)
 - [1658 A DIY Battery That Is Crazy Simple To Make](https://youtu.be/63Y8fcrHgf0)
+- [1245 How To Make Your Own Super Battery - Copper Oxide Zinc](https://youtu.be/81cFTy9MqIA)
