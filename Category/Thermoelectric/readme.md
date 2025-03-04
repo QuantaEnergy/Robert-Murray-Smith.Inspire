@@ -1,0 +1,1 @@
+- [1416 How To Make A Very Different DIY Thermoelectric Generator For A Rocket Stove](https://youtu.be/6-egm7KIj4Y)
