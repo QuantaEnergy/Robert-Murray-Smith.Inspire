@@ -14,12 +14,18 @@ index:
 - [1743 A Rocket Stove Kit - No Welding, No Tools, No Experience = No Problem](https://youtu.be/c5Q_5XKDXK4)
 - [1726 Easy Build Rocket Stove From A Toilet Brush Holder](https://youtu.be/mPaahNfIidc)
 - [1677 Biodiesel Rocket Stove](https://youtu.be/X-RI4D1x3dw)
+- [1409 Using A Rocket Stove To Generate Electricity - The Plan](https://youtu.be/GeBU1FEYxlc)
+- [1404 Rocket Stove For Mass Heating](https://youtu.be/QnDr32onidQ)
 
-# F Shape
+# Insulation
+- [1622 The Best Insulation For A Rocket Stove And How To Make It](https://youtu.be/neTGwG0QwDs)
+
+# J Type
 ## Steam Engine
 - [1692 A DIY Multi Fuel Home Generator 1 - The Project](https://youtu.be/Q2CZ1YMZ5_0)
 - [1693 A DIY Multi Fuel Home Generator 2 - Changing One Type Of Engine Into Another Type Of Engine](https://youtu.be/Q2CZ1YMZ5_0)
 - [1716 A DIY Multi Fuel Home Generator 3 - Converting A Compressor To A Steam Engine](https://youtu.be/HVsDtuTkj6E)
 
-# K Shape
+# K Type
+- [1412 Rocket Stove Free Plans](https://youtu.be/765CZdxrqXI)
 - [1403 How To Make A Rocket Stove For UK£20 And A Couple Of Hours Work](https://youtu.be/r2qmmPSa5Ig)
