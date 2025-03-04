@@ -9,3 +9,4 @@ index:
 - [1424 How To Make A Giant Battery- Fabricated In 5 Minutes - A Critical Review](https://youtu.be/tVUFQfQ8l7o)
 - [1607 A DIY Sand Battery](https://youtu.be/kzj1PCA_jxA)
 - [1604 The Sand Battery - A DIY Option Or Not?](https://youtu.be/9BW5GX05Fko)
+- [1658 A DIY Battery That Is Crazy Simple To Make](https://youtu.be/63Y8fcrHgf0)
