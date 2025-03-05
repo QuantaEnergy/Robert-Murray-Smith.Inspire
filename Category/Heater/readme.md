@@ -27,3 +27,11 @@
 # from:
 ## Plant Pot
 - [1695 Improving The Plant Pot Heater](https://youtu.be/SCO0mB_ELg0)
+- [1777 The Perfect Plant Pot Heater](https://youtu.be/HIZ_ByGv7CQ)
+
+## Sock
+- [1746 DIY Room Heater From An Old Sock](https://youtu.be/wM08HEWSa-Q)
+
+## Food Cans & Carbon Felt
+- [1702 Homemade Heater - You Will Not Believe How Warm This Gets](https://youtu.be/JGVZVCU8FGE)
+- [1704 Trying Different Fuels On The DIY Heater 1](https://youtu.be/zZyL_XKFIyA)
