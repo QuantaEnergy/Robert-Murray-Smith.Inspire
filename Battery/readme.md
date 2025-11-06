@@ -1,1 +1,3 @@
 - [1237 Don't Be Fooled By This Battery - A Contender With Lithium](https://youtu.be/pj6M18B-gDY)
+- [1366 The Ultimate Secret To Battery Making](https://youtu.be/umGAQIqa7fw)
+- [1245 How To Make Your Own Super Battery - Copper Oxide Zinc](https://youtu.be/81cFTy9MqIA)
